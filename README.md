@@ -8,7 +8,7 @@
 - 💞️ 우리집 고양이 이름은 금은동 너무 귀여웡 ...
 - 📫 How to reach me ...
 
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![bebeaubn's github stats](https://github-readme-stats.vercel.app/api?username=bebeaubn&show_icons=true)
 
 <!---
 bebeaubn/bebeaubn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
