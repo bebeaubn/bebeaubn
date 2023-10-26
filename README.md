@@ -1,13 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
-
+<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 - 👋 Hi, I’m @bebeaubn
 - 👀 얼래벌래 코딩중
 - 🌱 나 응애 개발 지원자 백엔드하는중 ...
 - 💞️ 우리집 고양이 이름은 금은동 너무 귀여웡 ...
 - 📫 How to reach me ...
+
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
 
 <!---
 bebeaubn/bebeaubn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
