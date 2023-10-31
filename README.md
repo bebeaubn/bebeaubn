@@ -6,8 +6,7 @@
 - 👀 얼래벌래 코딩중
 - 🌱 나 응애 개발 지원자 백엔드하는중 ...
 - 💞️ 우리집 고양이 이름은 금은동 너무 귀여웡 ...
-- 📫 How to reach me ...
+
 
 ![bebeaubn's github stats](https://github-readme-stats.vercel.app/api?username=bebeaubn&show_icons=true)
 
-<!---
