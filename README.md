@@ -2,8 +2,9 @@
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 - 👋 Hi, I’m @bebeaubn
 - 👀 얼래벌래 코딩중
-- 🌱 나 응애 개발 지원자 백엔드하는중 ...
+- 🌱 나 응애 개발 지원자 백엔드하는중 ... 프론트 진행중
 - 💞️ 우리집 고양이 이름은 금은동 너무 귀여웡 ...
+- 
 
 
 ![bebeaubn's github stats](https://github-readme-stats.vercel.app/api?username=bebeaubn&show_icons=true)
