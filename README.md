@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m @bebeaubn
 - 👀 얼래벌래 코딩중
-- 🌱 나 응애 개발 지원자 백엔드하는중 ... 프론트 진행중
+- 🌱 응앵 개발자 
 - 💞️ 우리집 고양이 이름은 금은동 너무 귀여웡 ...
-
+- 📧 yebin0213@gaonpay.com 
 
 
 ![bebeaubn's github stats](https://github-readme-stats.vercel.app/api?username=bebeaubn&show_icons=true)
