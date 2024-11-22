@@ -3,7 +3,7 @@
 - 👀 얼래벌래 코딩중
 - 🌱 응앵 개발자 
 - 💞️ 우리집 고양이 이름은 금은동 너무 귀여웡 ...
-- 📧 yebin0213@gaonpay.com 
+- 📧 yebin0213@naver.com 
 
 
 ![bebeaubn's github stats](https://github-readme-stats.vercel.app/api?username=bebeaubn&show_icons=true)
