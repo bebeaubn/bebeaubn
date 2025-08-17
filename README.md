@@ -8,6 +8,9 @@
 
 ![bebeaubn's github stats](https://github-readme-stats.vercel.app/api?username=bebeaubn&show_icons=true)
 
+[![Solved.ac
+bebeaubn](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
